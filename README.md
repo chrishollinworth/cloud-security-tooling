@@ -23,5 +23,11 @@ https://github.com/aquasecurity/trivy
 
 Also might want to install 
 
+scpkit
+https://github.com/aquia-inc/scpkit
+
+ZeusCloud
+https://github.com/Zeus-Labs/ZeusCloud
+
 aws-vault (multiple account support)
 https://github.com/99designs/aws-vault 
