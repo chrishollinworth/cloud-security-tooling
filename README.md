@@ -29,5 +29,8 @@ https://github.com/aquia-inc/scpkit
 ZeusCloud
 https://github.com/Zeus-Labs/ZeusCloud
 
+hammer
+https://github.com/dowjones/hammer
+
 aws-vault (multiple account support)
 https://github.com/99designs/aws-vault 
